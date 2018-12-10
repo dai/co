@@ -16,7 +16,7 @@
 title: daisuke osada
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Tokyo based agent, whose name is daisuke osada (daiskeh) 
+  Tokyo based Enlightened agent, whose name is daisuke osada (daiskeh) 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://daisuke.co" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: daisuke
