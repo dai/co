@@ -6,3 +6,5 @@ permalink: /about/
 
 [daiskeh](https://plus.google.com/+daisukeosada)
 
+とは？
+
